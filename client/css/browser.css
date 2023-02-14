@@ -1,0 +1,76 @@
+.root label {
+    display:block;
+    padding: 0.5rem
+}
+
+.root button {
+    height: 2em;
+    border: none;
+    border-radius: 0.25em;
+    margin: 1em 1em;
+}
+
+.root button:hover {
+    background: var(--page-color4);
+}
+
+.root h3 {
+    background: var(--page-color3);
+    color: var(--text-color-d);
+
+    text-align: center;
+    margin: 0;
+
+    padding: 0.5rem;
+}
+
+.root input {
+    height: 2em;
+    border: none;
+    border-radius: 0.25em;
+    padding-left: 1em;
+    margin: 1em 1em;
+}
+
+.browser {
+    margin: 1rem;
+    padding: 1rem 1rem;
+    text-align: center;
+}
+
+
+.user_info {
+    background: var(--page-color1);
+    display: inline-block;
+    margin: 1rem;
+
+    float: left;
+    width: 20%;
+    min-width: 220px;
+}
+
+.active_games {
+    background: var(--page-color1);
+    display: inline-block;
+    margin: 1rem;
+
+    float: left;
+    width: 60%;
+
+}
+
+
+.online_players {
+    background: var(--page-color1);
+    display: inline-block;
+    margin: 1rem;
+
+    float: left;
+    width: 10%;
+
+    min-width: 160px;
+}
+
+
+
+
