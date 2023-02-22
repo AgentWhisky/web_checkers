@@ -1,4 +1,4 @@
-# web_checkers
+# Web Checkers
 
 ### A multiplayer online checkers application with an active game browser (WIP)
 * Implemented Automatic user login/logout system
