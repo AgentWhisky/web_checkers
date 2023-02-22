@@ -5,3 +5,4 @@
 * Implemented Username change ability
 * In progress: Implemented Game creation and server communication
 
+![Alt text](resources/update1.png?raw=true "Update 1")
